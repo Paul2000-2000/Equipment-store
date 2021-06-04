@@ -1,28 +1,28 @@
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ShowAllOrdersController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\model\User.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\SeeAllHisOrdersController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\model\Order.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ManagerPageController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\services\UserService.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\StartPageController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\exceptions\UsernameAlreadyExistsException.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\EditProductsController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\SeeClientDetailsController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\SignInController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\RegistrationController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ClientPageController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\DeleteProductsController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\services\ProductService.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ProductsListControllerClient.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\EditButtonFromEditProductsController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\model\Product.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\Main.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\AddProductsController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ProductsListController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\services\FileSystemService.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\BuyProductsController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\SeeAllOrdersController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ShoppingCartController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ShowClientDetailsController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\AddToCartController.java
-C:\Users\natha\OneDrive\Documente\Proiect FIS\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ShowOrderController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ProductsListControllerClient.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\SeeAllHisOrdersController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ShowOrderController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ShowClientDetailsController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ClientPageController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ProductsListController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\RegistrationController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\StartPageController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\model\Product.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\model\Order.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\model\User.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\SignInController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\BuyProductsController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\services\UserService.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ShoppingCartController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\EditProductsController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\exceptions\UsernameAlreadyExistsException.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ManagerPageController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\SeeClientDetailsController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\AddProductsController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\Main.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\services\ProductService.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\EditButtonFromEditProductsController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\AddToCartController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\ShowAllOrdersController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\services\FileSystemService.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\SeeAllOrdersController.java
+F:\Faculta\An2sem2\FIS\PROIECT\MagazinEchipamenteSportive\src\main\java\org\loose\fis\proiect\controllers\DeleteProductsController.java
