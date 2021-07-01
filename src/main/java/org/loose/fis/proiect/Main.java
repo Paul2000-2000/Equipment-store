@@ -25,6 +25,9 @@ public class Main extends Application {
         primaryStage.setTitle("Magazin de Echipamente Sportive");
         primaryStage.setScene(new Scene(root, 350, 400));
         primaryStage.show();
+
+        int s=0;
+        s++;
     }
 
 
