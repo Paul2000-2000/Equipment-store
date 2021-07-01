@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a6e5f60-6bf7-4444-8596-6d65dd5335d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/loose/fis/proiect/controllers/SignInController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/loose/fis/proiect/controllers/SignInController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +47,8 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/MagazinEchipamenteSportive-main (1)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
@@ -147,11 +145,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SeeAllHisOrdersTest" />
-      <item itemvalue="JUnit.SeeAllOrdersTest" />
-      <item itemvalue="JUnit.MainTest.testmain" />
       <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.MainTest.testmain" />
+      <item itemvalue="JUnit.SeeAllHisOrdersTest" />
       <item itemvalue="JUnit.SeeAllHisOrdersTest.testseeallhisorders" />
+      <item itemvalue="JUnit.SeeAllOrdersTest" />
     </list>
     <recent_temporary>
       <list>
