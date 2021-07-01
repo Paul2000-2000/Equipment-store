@@ -1,4 +1,4 @@
-# <div align="center"> MagazinEchipamenteSportive </div>
+# <div align="center"> Equipment Store </div>
 
 A JavaFX Application demonstrating how to implement a simplistic approach of a registration use case using the following technologies:
 * Java 15
@@ -40,25 +40,22 @@ The project has already been setup for Maven according to the above link.
 To start and run the project use the following commands:
 * `mvn javafx:run` or `./mvnw javafx:run` (run the `run` goal of the `javafx` maven plugin)
 
-You should see an application starting, that looks like this:
+You should see an application starting.
 
-<img src="imagesreadme/startpage.jpg" width="300"/>
 
-Try to click on registration button a user. After that you will see the next page which looks like this:
 
-<img src="imagesreadme/registerpage.jpg" width="300"/>
+Try to click on registration button a user.  
 
-Now try and register an account with your details. If the username is not already used then you should be able to see the Sign in page whick looks like this:
 
-<img src="imagesreadme/signinpage.jpg" width="300"/>
 
-However, if you try to register a user with the same username again, you will see an error message:
+Now try and register an account with your details. 
 
-<img src="imagesreadme/registeranaccount.jpg" width="300"/>
 
-If you sign in as a client, you should see the next page:
 
-<img src="imagesreadme/clientpage.jpg" width="300"/>
+However, if you try to register a user with the same username again, you will see an error message
+
+
+
 
 ### <i>The Client Account</i>
 
@@ -74,7 +71,6 @@ If you sign in as a client, you should see the next page:
 
 If you sign in as a manager, you should see the next page:
 
-<img src="imagesreadme/managerpage.jpg" width="300"/>
 
 
 
