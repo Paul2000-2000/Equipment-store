@@ -12,11 +12,11 @@ To set up and run the project locally on your machine, please follow the next st
 ### <i>Clone the repository</i>
 Clone the repository using:
 ```git
-git clone https://github.com/fis2021/MagazinEchipamenteSportive
+git clone https://github.com/Paul2000-2000/Equipment-store
 ```
 
 ### <i>Verify that the project Builds locally</i>
-Open a command line session and `cd MagazinEchipamenteSportive`.
+Open a command line session and `cd Equipment store`.
 If you have installed all the prerequisites, you should be able to run any of the following command:
 ```
 mvn clean install
